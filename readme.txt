@@ -1,1 +1,1 @@
-(Open Source)  Artificial General Intelligence Physician
+(Open Source)  Artificial General Intelligence
